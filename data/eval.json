@@ -1,0 +1,6 @@
+[
+ {"question":"How many API calls are allowed per minute?","relevant_terms":["rate limits"],"expected_answer":"120 requests per minute"},
+ {"question":"How do I verify webhooks?","relevant_terms":["webhooks"],"expected_answer":"HMAC-SHA256"},
+ {"question":"How many events are in the Pro plan?","relevant_terms":["billing"],"expected_answer":"100,000"},
+ {"question":"Where should I put my API token?","relevant_terms":["authentication"],"expected_answer":"Authorization header"}
+]
